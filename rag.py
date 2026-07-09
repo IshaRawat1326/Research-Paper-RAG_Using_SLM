@@ -1,6 +1,10 @@
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from transformers import pipeline
+from huggingface_hub import login
+import streamlit as st
 import torch
+
+login(token=st.secrets["HF_TOKEN"])
 
 # Load model only once
 model_name = "google/gemma-2b-it"
