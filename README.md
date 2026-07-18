@@ -124,3 +124,11 @@ Passionate about Artificial Intelligence, Machine Learning, and Retrieval-Augmen
 ## License
 
 This project is developed for educational and learning purposes.
+
+## Demo
+
+Since this project runs locally, here's a short demo showing it in action:
+
+[Watch the demo](https://drive.google.com/file/d/1PUNdJvcB3pkgumR7WyS_3Tf18h0TucSK/view?usp=sharing)
+
+
