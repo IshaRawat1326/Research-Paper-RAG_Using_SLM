@@ -113,9 +113,9 @@ streamlit run app.py
 
 ## Author
 
-**Harshita Mittal**
+**Isha Rawat**
 
-B.Tech (Artificial Intelligence & Machine Learning)
+B.Tech (Computer Science)
 
 Passionate about Artificial Intelligence, Machine Learning, and Retrieval-Augmented Generation (RAG) systems.
 
